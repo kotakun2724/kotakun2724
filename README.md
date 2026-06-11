@@ -58,7 +58,6 @@ Active in tech communities — LTs, hackathons, and sharing what I learn.
 
 | Project | Description | Link |
 |:--------|:------------|:-----|
-| **MUGENDUNGEON** | 3D roguelike dungeon crawler with procedural generation, stamina combat, and skill trees | [Steam](https://store.steampowered.com/app/4580570/MUGENDUNGEON/?l=japanese) |
 | **Vulkan Renderer** | Learning-focused renderer using Vulkan API (MoltenVK on macOS) — triangle to animated quads | [GitHub](https://github.com/kotakun2724/Vulkan) |
 | **Pong Game** | Classic Pong in C++ with SDL2, extended with multi-ball support | [GitHub](https://github.com/kotakun2724/ponggame) |
 | **Portfolio Site** | Dark-first personal portfolio built with Astro + Tailwind | [GitHub](https://github.com/kotakun2724/portfolio) |
